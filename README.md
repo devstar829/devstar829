@@ -17,16 +17,6 @@ Senior software engineer with 10 years of experience with a passion for both per
 - **{Cloud-Based Solutions}**: Integrating AWS, Azure services.
 - **{Linux Cloud Server Deployment and Maintenance}**: Ensuring smooth operation and optimal performance of cloud-based infrastructure.
 
-
-
-<h2>🏆 GitHub Activity</h2>
-
-<p>
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=devstar829&theme=onedark&column=-1&margin-w=15" />
-</p>
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devstar829&theme=merko&custom_title=Devstar%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/devstar829)
-
 <h2>😎 My Skills</h2>
 
 <table align="center">
@@ -157,6 +147,15 @@ Senior software engineer with 10 years of experience with a passion for both per
     </td>
   </tr>
 </table>
+
+
+<h2>🏆 GitHub Activity</h2>
+
+<p>
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=devstar829&theme=onedark&column=-1&margin-w=15" />
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devstar829&theme=merko&custom_title=Devstar%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/devstar829)
 
 <p align="center">
   <!-- <a href="https://github.com/OnlyForward0613/github-readme-stats">
