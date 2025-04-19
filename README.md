@@ -155,18 +155,5 @@ Senior software engineer with 10 years of experience with a passion for both per
     <img align="left" src="https://github-profile-trophy.vercel.app/?username=devstar829&theme=onedark&column=-1&margin-w=15" />
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devstar829&theme=merko&custom_title=Devstar%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/devstar829)
 
-<p align="center">
-  <!-- <a href="https://github.com/OnlyForward0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=OnlyForward0613&show_icons=true&theme=radical&card_width=350" />
-  </a> -->
-  <a href="https://github.com/devstar829/github-readme-stats">
-    <img align="center" style="width: 425px" src="https://github-readme-streak-stats-ikff.vercel.app/?user=devstar829&theme=radical" />
-  </a>
-  <a href="https://github.com/devstar829/convoychat">
-    <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=devstar829&layout=compact&langs_count=8&card_width=200&theme=radical" />
-  </a>
-  
-</p>
 <br/>
