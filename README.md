@@ -3,7 +3,7 @@
 
 <h2>👋 About Me</h2>
 
-Hello, I'm **<font color="#03A9F4">{Devstar}</font>**, a **<font color="#F31199">{Senior Full-Stack Engineer}</font>**!  🧐
+Hello, I'm **<font color="#03A9F4">{Devstar}</font>**, a **<font color="#F31199">{AI Engineer | Data Engineern | Full-Stack Engineer}</font>**!  🧐
 
 Senior software engineer with 10 years of experience with a passion for both personal growth and software development. Detail-oriented, organized, and meticulous employee. Quick learner, strong reasoning, and problem-solving skills. 👊
 
