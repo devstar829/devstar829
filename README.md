@@ -1,22 +1,6 @@
 
 [English](./README.md)
 
-<h2>👋 About Me</h2>
-
-Hello, I'm **<font color="#03A9F4">{Devstar}</font>**, a **<font color="#F31199">{AI Engineer | Data Engineern | Full-Stack Engineer}</font>**!  🧐
-
-Senior software engineer with 10 years of experience with a passion for both personal growth and software development. Detail-oriented, organized, and meticulous employee. Quick learner, strong reasoning, and problem-solving skills. 👊
-
-
-
-<h2>📋 Responsibilities</h2>
-
-- **{Project Management}**: Overseeing the technical aspects of various projects, ensuring timely delivery and high-quality output.
-- **{Backend Development}**: Architecting and implementing robust server-side solutions.
-- **{Frontend Development}**: Creating responsive and intuitive user interfaces.
-- **{Cloud-Based Solutions}**: Integrating AWS, Azure services.
-- **{Linux Cloud Server Deployment and Maintenance}**: Ensuring smooth operation and optimal performance of cloud-based infrastructure.
-
 <h2>😎 My Skills</h2>
 
 <table align="center">
