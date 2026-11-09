@@ -1,7 +1,8 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Roilan%20Roman&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20%26%20Agentic%20Systems%20%C2%B7%20Data%20Engineering&descAlignY=58&descSize=18" width="100%" alt="header" />
+<h1>Roilan Roman</h1>
+<h3>Full-Stack · AI &amp; Agentic Systems · Data Engineering</h3>
 
 <a href="https://github.com/devstar829">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+AI+agents+that+actually+ship+%F0%9F%A4%96;Full-stack+engineer+%7C+Java+%C2%B7+Python+%C2%B7+TypeScript;LLM+apps+%C2%B7+RAG+%C2%B7+Tool-using+agents+%C2%B7+MCP;Healthcare+%C2%B7+Data+pipelines+%C2%B7+Cloud-native" alt="Typing SVG" />
@@ -141,19 +142,6 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devstar829&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devstar829&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devstar829&theme=tokyonight&hide_border=true&background=0f172a" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🎯 What I'm Looking For
 
 - 🤝 Collaborating on **AI agent and LLM application** projects
@@ -174,6 +162,5 @@ flowchart LR
 
 ⭐ *If you like my work, drop a star on a repo. It means a lot!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
