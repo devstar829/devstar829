@@ -1,5 +1,5 @@
 <a href="https://github.com/devstar829">
-  <img src="./assets/hero.svg" width="100%" alt="Roilan Roman — Full-Stack · AI & Agentic Systems · Data Engineering" />
+  <img src="./assets/hero.svg" width="100%" alt="Alex Lee — Full-Stack · AI & Agentic Systems · Data Engineering" />
 </a>
 
 <p align="center">

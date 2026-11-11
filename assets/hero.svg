@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="Roilan Roman — Full-Stack, AI and Agentic Systems, Data Engineering. A live terminal types what I build while an agent graph pulses on the right.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="Alex Lee — Full-Stack, AI and Agentic Systems, Data Engineering. A live terminal types what I build while an agent graph pulses on the right.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#070B18"/>
@@ -65,7 +65,7 @@
     </g>
 
     <!-- name -->
-    <text x="54" y="150" class="sans" font-size="60" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Roilan Roman</text>
+    <text x="54" y="150" class="sans" font-size="60" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Alex Lee</text>
     <text x="56" y="190" class="sans" font-size="18" fill="#CBD5E1" letter-spacing="0.3">Full-Stack  ·  AI &amp; Agentic Systems  ·  Data Engineering</text>
 
     <!-- terminal -->
