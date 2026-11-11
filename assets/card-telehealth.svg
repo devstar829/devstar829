@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" width="480" height="220" role="img" aria-label="Telehealth Platform: Remote patient care, virtual consults and an AI symptom-analysis chatbot.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111733"/></linearGradient>
+<linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#F472B6" stop-opacity="0"/><stop offset=".5" stop-color="#F472B6"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="4s" repeatCount="indefinite"/></linearGradient>
+<style>.mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,monospace}.sans{font-family:'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif}</style></defs>
+<rect x=".5" y=".5" width="479" height="219" rx="18" fill="url(#bg)" stroke="#1E293B"/>
+<rect x="24" y="0" width="432" height="2" fill="url(#edge)"/>
+<text x="24" y="40" class="mono" font-size="11" fill="#F472B6" opacity=".9">~/projects/telehealth</text>
+<text x="24" y="74" class="sans" font-size="22" font-weight="800" fill="#F1F5F9">Telehealth Platform</text>
+<text x="24" y="112" class="sans" font-size="13.5" fill="#94A3B8">Remote patient care, virtual consults and an</text>
+<text x="24" y="132" class="sans" font-size="13.5" fill="#94A3B8">AI symptom-analysis chatbot.</text>
+<rect x="24" y="168" width="89" height="24" rx="12" fill="#F472B6" fill-opacity=".12" stroke="#F472B6" stroke-opacity=".5"/><text x="68" y="184" text-anchor="middle" class="mono" font-size="11.5" fill="#F472B6">JavaScript</text><rect x="121" y="168" width="89" height="24" rx="12" fill="#F472B6" fill-opacity=".12" stroke="#F472B6" stroke-opacity=".5"/><text x="166" y="184" text-anchor="middle" class="mono" font-size="11.5" fill="#F472B6">AI chatbot</text><rect x="218" y="168" width="89" height="24" rx="12" fill="#F472B6" fill-opacity=".12" stroke="#F472B6" stroke-opacity=".5"/><text x="262" y="184" text-anchor="middle" class="mono" font-size="11.5" fill="#F472B6">Healthcare</text>
+<text x="456" y="185" text-anchor="end" class="mono" font-size="12" fill="#64748B">view repo →</text>
+<g transform="translate(330 30)"><rect width="120" height="60" rx="10" fill="#0B1222" stroke="#1E293B"/>
+<path d="M8 32 H38 L46 14 L54 48 L62 24 L68 32 H112" fill="none" stroke="#F472B6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="140" stroke-dashoffset="140"><animate attributeName="stroke-dashoffset" values="140;0;-140" dur="2.4s" repeatCount="indefinite"/></path>
+<circle cx="104" cy="14" r="4" fill="#F472B6"><animate attributeName="opacity" values="1;.2;1" dur="1.2s" repeatCount="indefinite"/></circle></g>
+</svg>

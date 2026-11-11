@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" width="480" height="220" role="img" aria-label="VideoStreaming · Django: Live video streaming with real-time computer vision on every frame.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111733"/></linearGradient>
+<linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#34D399" stop-opacity="0"/><stop offset=".5" stop-color="#34D399"/><stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="4s" repeatCount="indefinite"/></linearGradient>
+<style>.mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,monospace}.sans{font-family:'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif}</style></defs>
+<rect x=".5" y=".5" width="479" height="219" rx="18" fill="url(#bg)" stroke="#1E293B"/>
+<rect x="24" y="0" width="432" height="2" fill="url(#edge)"/>
+<text x="24" y="40" class="mono" font-size="11" fill="#34D399" opacity=".9">~/projects/video-streaming</text>
+<text x="24" y="74" class="sans" font-size="22" font-weight="800" fill="#F1F5F9">VideoStreaming · Django</text>
+<text x="24" y="112" class="sans" font-size="13.5" fill="#94A3B8">Live video streaming with real-time</text>
+<text x="24" y="132" class="sans" font-size="13.5" fill="#94A3B8">computer vision on every frame.</text>
+<rect x="24" y="168" width="61" height="24" rx="12" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/><text x="55" y="184" text-anchor="middle" class="mono" font-size="11.5" fill="#34D399">Django</text><rect x="93" y="168" width="89" height="24" rx="12" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/><text x="138" y="184" text-anchor="middle" class="mono" font-size="11.5" fill="#34D399">TensorFlow</text><rect x="190" y="168" width="61" height="24" rx="12" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".5"/><text x="221" y="184" text-anchor="middle" class="mono" font-size="11.5" fill="#34D399">OpenCV</text>
+<text x="456" y="185" text-anchor="end" class="mono" font-size="12" fill="#64748B">view repo →</text>
+<g transform="translate(330 24)"><rect width="120" height="72" rx="8" fill="#0B1222" stroke="#1E293B"/>
+<circle cx="14" cy="13" r="3.5" fill="#F87171"><animate attributeName="opacity" values="1;.2;1" dur="1s" repeatCount="indefinite"/></circle>
+<text x="22" y="16" class="mono" font-size="8" fill="#FCA5A5">LIVE</text>
+<rect width="40" height="32" fill="none" stroke="#34D399" stroke-width="1.6"><animate attributeName="x" values="14;64;40;14" dur="5s" repeatCount="indefinite"/><animate attributeName="y" values="26;30;22;26" dur="5s" repeatCount="indefinite"/></rect>
+<line x1="4" x2="116" stroke="#22D3EE" stroke-opacity=".6"><animate attributeName="y1" values="6;66;6" dur="3s" repeatCount="indefinite"/><animate attributeName="y2" values="6;66;6" dur="3s" repeatCount="indefinite"/></line></g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" width="480" height="220" role="img" aria-label="Medication Reminder: Real-time reminder service that keeps patients on schedule.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1020"/><stop offset="1" stop-color="#111733"/></linearGradient>
+<linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="4s" repeatCount="indefinite"/></linearGradient>
+<style>.mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,monospace}.sans{font-family:'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif}</style></defs>
+<rect x=".5" y=".5" width="479" height="219" rx="18" fill="url(#bg)" stroke="#1E293B"/>
+<rect x="24" y="0" width="432" height="2" fill="url(#edge)"/>
+<text x="24" y="40" class="mono" font-size="11" fill="#22D3EE" opacity=".9">~/projects/med-reminder</text>
+<text x="24" y="74" class="sans" font-size="22" font-weight="800" fill="#F1F5F9">Medication Reminder</text>
+<text x="24" y="112" class="sans" font-size="13.5" fill="#94A3B8">Real-time reminder service that keeps</text>
+<text x="24" y="132" class="sans" font-size="13.5" fill="#94A3B8">patients on schedule.</text>
+<rect x="24" y="168" width="68" height="24" rx="12" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".5"/><text x="58" y="184" text-anchor="middle" class="mono" font-size="11.5" fill="#22D3EE">Node.js</text><rect x="100" y="168" width="82" height="24" rx="12" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".5"/><text x="141" y="184" text-anchor="middle" class="mono" font-size="11.5" fill="#22D3EE">Real-time</text><rect x="190" y="168" width="89" height="24" rx="12" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".5"/><text x="235" y="184" text-anchor="middle" class="mono" font-size="11.5" fill="#22D3EE">Healthcare</text>
+<text x="456" y="185" text-anchor="end" class="mono" font-size="12" fill="#64748B">view repo →</text>
+<g transform="translate(390 62)"><circle r="34" fill="#0B1222" stroke="#22D3EE" stroke-width="2"/>
+<circle r="34" fill="none" stroke="#22D3EE" stroke-opacity=".5"><animate attributeName="r" values="34;46" dur="2s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values=".6;0" dur="2s" repeatCount="indefinite"/></circle>
+<line y2="-18" stroke="#E2E8F0" stroke-width="3" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/></line>
+<line y2="-26" stroke="#22D3EE" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="2s" repeatCount="indefinite"/></line>
+<circle r="3" fill="#E2E8F0"/></g>
+</svg>

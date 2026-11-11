@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" width="1000" height="380" role="img" aria-label="Roilan Roman — Full-Stack, AI and Agentic Systems, Data Engineering. A live terminal types what I build while an agent graph pulses on the right.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B18"/>
+      <stop offset="1" stop-color="#0E1430"/>
+    </linearGradient>
+    <linearGradient id="name" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="560" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.35" stop-color="#A78BFA"/>
+      <stop offset="0.65" stop-color="#F472B6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;520 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#94A3B8" opacity="0.12"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect width="1000" height="380" rx="22"/></clipPath>
+    <clipPath id="t1"><rect x="176" y="268" height="30" width="0">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite" values="0;318;318;0;0;0;0;0;0;0;0" keyTimes="0;0.12;0.28;0.32;0.33;0.45;0.61;0.65;0.66;0.98;1"/>
+    </rect></clipPath>
+    <clipPath id="t2"><rect x="176" y="268" height="30" width="0">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite" values="0;0;282;282;0;0" keyTimes="0;0.33;0.45;0.61;0.65;1"/>
+    </rect></clipPath>
+    <clipPath id="t3"><rect x="176" y="268" height="30" width="0">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite" values="0;0;282;282;0;0" keyTimes="0;0.66;0.78;0.94;0.98;1"/>
+    </rect></clipPath>
+    <style>
+      .mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,monospace}
+      .sans{font-family:'Segoe UI','Inter',system-ui,-apple-system,Helvetica,Arial,sans-serif}
+      .blink{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .float{animation:float 6s ease-in-out infinite}
+      @keyframes float{50%{transform:translateY(-6px)}}
+      .ring{transform-origin:800px 190px;animation:spin 40s linear infinite}
+      .ring2{transform-origin:800px 190px;animation:spin 60s linear infinite reverse}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      .pulse{animation:pulse 2.4s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+      @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="380" fill="url(#bg)"/>
+    <rect width="1000" height="380" fill="url(#dots)"/>
+    <!-- aurora -->
+    <circle cx="160" cy="60" r="140" fill="#7C3AED" opacity="0.35" filter="url(#blur)">
+      <animate attributeName="cx" values="160;320;160" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="820" cy="320" r="150" fill="#0891B2" opacity="0.35" filter="url(#blur)">
+      <animate attributeName="cy" values="320;220;320" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="560" cy="380" r="120" fill="#DB2777" opacity="0.22" filter="url(#blur)">
+      <animate attributeName="cx" values="560;440;560" dur="16s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- status chip -->
+    <g transform="translate(56 52)">
+      <rect width="210" height="30" rx="15" fill="#0F172A" stroke="#1E293B"/>
+      <circle cx="18" cy="15" r="5" fill="#34D399"><animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite"/></circle>
+      <circle cx="18" cy="15" r="5" fill="none" stroke="#34D399"><animate attributeName="r" values="5;12" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/></circle>
+      <text x="34" y="20" class="mono" font-size="12.5" fill="#A7F3D0">open to opportunities</text>
+    </g>
+
+    <!-- name -->
+    <text x="54" y="150" class="sans" font-size="60" font-weight="800" fill="url(#name)" letter-spacing="-1.5">Roilan Roman</text>
+    <text x="56" y="190" class="sans" font-size="18" fill="#CBD5E1" letter-spacing="0.3">Full-Stack  ·  AI &amp; Agentic Systems  ·  Data Engineering</text>
+
+    <!-- terminal -->
+    <g transform="translate(0 0)">
+      <rect x="54" y="226" width="530" height="108" rx="12" fill="#0B1222" stroke="#1E293B"/>
+      <circle cx="74" cy="244" r="5" fill="#F87171"/><circle cx="92" cy="244" r="5" fill="#FBBF24"/><circle cx="110" cy="244" r="5" fill="#34D399"/>
+      <text x="566" y="248" text-anchor="end" class="mono" font-size="11" fill="#475569">devstar@agent-os</text>
+      <text x="72" y="289" class="mono" font-size="15" fill="#22D3EE">~/devstar</text>
+      <text x="160" y="289" class="mono" font-size="15" fill="#A78BFA">❯</text>
+      <g clip-path="url(#t1)"><text x="176" y="289" class="mono" font-size="15" fill="#E2E8F0">building agents that finish the job</text></g>
+      <g clip-path="url(#t2)"><text x="176" y="289" class="mono" font-size="15" fill="#E2E8F0">LLM apps · RAG · tool use · MCP</text></g>
+      <g clip-path="url(#t3)"><text x="176" y="289" class="mono" font-size="15" fill="#E2E8F0">Java · Python · TypeScript · Go</text></g>
+      <rect x="178" y="275" width="9" height="18" fill="#22D3EE" class="blink">
+        <animate attributeName="x" dur="15s" repeatCount="indefinite"
+          values="178;496;496;178;178;460;460;178;178;460;460;178;178"
+          keyTimes="0;0.12;0.28;0.32;0.33;0.45;0.61;0.65;0.66;0.78;0.94;0.98;1"/>
+      </rect>
+      <text x="72" y="318" class="mono" font-size="12" fill="#64748B">healthcare · data pipelines · cloud-native · remote</text>
+    </g>
+
+    <!-- agent constellation -->
+    <g>
+      <circle cx="800" cy="190" r="128" fill="none" stroke="#334155" stroke-dasharray="2 8" class="ring"/>
+      <circle cx="800" cy="190" r="84" fill="none" stroke="#334155" stroke-dasharray="1 6" class="ring2"/>
+
+      <!-- edges -->
+      <g stroke="#475569" stroke-width="1.4" fill="none" opacity="0.8">
+        <path id="e1" d="M800 190 L 690 112"/>
+        <path id="e2" d="M800 190 L 912 104"/>
+        <path id="e3" d="M800 190 L 920 268"/>
+        <path id="e4" d="M800 190 L 680 274"/>
+        <path id="e5" d="M800 190 L 800 52"/>
+      </g>
+      <!-- pulses travelling out and back -->
+      <circle r="3.5" fill="#22D3EE" filter="url(#glow)"><animateMotion dur="2.6s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;0.5;1" calcMode="linear"><mpath href="#e1"/></animateMotion></circle>
+      <circle r="3.5" fill="#F472B6" filter="url(#glow)"><animateMotion dur="3.1s" begin="0.4s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;0.5;1" calcMode="linear"><mpath href="#e2"/></animateMotion></circle>
+      <circle r="3.5" fill="#34D399" filter="url(#glow)"><animateMotion dur="2.8s" begin="0.9s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;0.5;1" calcMode="linear"><mpath href="#e3"/></animateMotion></circle>
+      <circle r="3.5" fill="#FBBF24" filter="url(#glow)"><animateMotion dur="3.4s" begin="0.2s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;0.5;1" calcMode="linear"><mpath href="#e4"/></animateMotion></circle>
+      <circle r="3.5" fill="#A78BFA" filter="url(#glow)"><animateMotion dur="2.2s" begin="1.2s" repeatCount="indefinite" keyPoints="0;1;0" keyTimes="0;0.5;1" calcMode="linear"><mpath href="#e5"/></animateMotion></circle>
+
+      <!-- satellites -->
+      <g class="mono" font-size="11" text-anchor="middle">
+        <g class="float"><rect x="648" y="96" width="84" height="30" rx="15" fill="#0F172A" stroke="#22D3EE"/><text x="690" y="115" fill="#A5F3FC">tools</text></g>
+        <g class="float" style="animation-delay:-1.5s"><rect x="870" y="88" width="84" height="30" rx="15" fill="#0F172A" stroke="#F472B6"/><text x="912" y="107" fill="#FBCFE8">memory</text></g>
+        <g class="float" style="animation-delay:-3s"><rect x="878" y="253" width="84" height="30" rx="15" fill="#0F172A" stroke="#34D399"/><text x="920" y="272" fill="#A7F3D0">evals</text></g>
+        <g class="float" style="animation-delay:-4.5s"><rect x="638" y="259" width="84" height="30" rx="15" fill="#0F172A" stroke="#FBBF24"/><text x="680" y="278" fill="#FDE68A">data</text></g>
+        <g class="float" style="animation-delay:-2.2s"><rect x="758" y="36" width="84" height="30" rx="15" fill="#0F172A" stroke="#A78BFA"/><text x="800" y="55" fill="#DDD6FE">MCP</text></g>
+      </g>
+
+      <!-- core -->
+      <circle cx="800" cy="190" r="40" fill="#7C3AED" opacity="0.25" class="pulse"/>
+      <circle cx="800" cy="190" r="30" fill="#111827" stroke="#A78BFA" stroke-width="2"/>
+      <text x="800" y="186" text-anchor="middle" class="mono" font-size="10" fill="#94A3B8">agent</text>
+      <text x="800" y="200" text-anchor="middle" class="mono" font-size="12" font-weight="700" fill="#E9D5FF">core</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="379" rx="22" fill="none" stroke="#1E293B"/>
+</svg>
