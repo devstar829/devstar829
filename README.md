@@ -46,7 +46,11 @@ values:    clean code · shipping fast · humans in the loop for high-stakes cal
 status:    open to remote roles & collaborations
 ```
 
-<br/>
+### `> claude "ship it"`
+
+<img src="./assets/claude-code.svg" width="100%" alt="Animated Claude Code session: I ask Claude to add retries and an eval gate to my triage agent; it reads the file, edits it, runs pytest, and 24 tests pass" />
+
+<br/><br/>
 
 <img src="./assets/agent-loop.svg" width="100%" alt="How I build agents: user goal → planner → tools & memory → evaluate → result, looping back when more context is needed" />
 
