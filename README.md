@@ -6,28 +6,6 @@
   <sub><code>ai agents</code> · <code>llm apps</code> · <code>rag</code> · <code>mcp</code> · <code>healthcare tech</code> · <code>data pipelines</code> · <code>cloud-native</code></sub>
 </p>
 
-### `> cat about.md`
-
-I turn messy, real-world problems into working products. Right now I'm focused on **LLM-powered apps and agentic systems**: software that plans, calls tools and finishes the job instead of only answering questions.
-
-```yaml
-role:      full-stack + AI engineer
-building:  tool-using agents · RAG systems · healthcare platforms · ETL pipelines
-exploring: multi-agent orchestration · MCP servers · LLM evaluation
-values:    clean code · shipping fast · humans in the loop for high-stakes calls
-status:    open to remote roles & collaborations
-```
-
-<br/>
-
-<img src="./assets/agent-loop.svg" width="100%" alt="How I build agents: user goal → planner → tools & memory → evaluate → result, looping back when more context is needed" />
-
-<br/><br/>
-
-<img src="./assets/stack-orbit.svg" width="100%" alt="Tech stack in orbit: languages at the core, AI & agents in the middle ring, platforms & infra on the outer ring" />
-
-<br/>
-
 ### `> ls ~/projects --featured`
 
 <p align="center">
@@ -53,6 +31,28 @@ status:    open to remote roles & collaborations
 | [FastAPI](https://github.com/devstar829/FastAPI) | Python API experiments with FastAPI |
 
 </details>
+
+<br/>
+
+### `> cat about.md`
+
+I turn messy, real-world problems into working products. Right now I'm focused on **LLM-powered apps and agentic systems**: software that plans, calls tools and finishes the job instead of only answering questions.
+
+```yaml
+role:      full-stack + AI engineer
+building:  tool-using agents · RAG systems · healthcare platforms · ETL pipelines
+exploring: multi-agent orchestration · MCP servers · LLM evaluation
+values:    clean code · shipping fast · humans in the loop for high-stakes calls
+status:    open to remote roles & collaborations
+```
+
+<br/>
+
+<img src="./assets/agent-loop.svg" width="100%" alt="How I build agents: user goal → planner → tools & memory → evaluate → result, looping back when more context is needed" />
+
+<br/><br/>
+
+<img src="./assets/stack-orbit.svg" width="100%" alt="Tech stack in orbit: languages at the core, AI & agents in the middle ring, platforms & infra on the outer ring" />
 
 <br/>
 
